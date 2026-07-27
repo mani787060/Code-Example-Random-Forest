@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Classification using Multiple Machine Learning Algorithms
+# Heart Disease Classification using Multiple Machine Learning Algorithms
 
 A comprehensive Machine Learning project that demonstrates how to build, compare, and optimize multiple classification models for predicting heart disease using the **Heart Disease UCI Dataset (`heart_disease_uci.csv`)**.
 
@@ -201,5 +201,3 @@ This workflow can be adapted for:
 This notebook demonstrates a complete end-to-end Machine Learning classification pipeline using the Heart Disease UCI dataset. By training and comparing Logistic Regression, Support Vector Classifier, Random Forest, and Gradient Boosting models, along with applying hyperparameter tuning techniques, it provides a practical understanding of model selection and optimization.
 
 This project is an excellent resource for beginners and intermediate learners looking to strengthen their understanding of classification algorithms and hyperparameter tuning in real-world healthcare applications.
-
----
