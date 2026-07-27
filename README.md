@@ -203,5 +203,3 @@ This notebook demonstrates a complete end-to-end Machine Learning classification
 This project is an excellent resource for beginners and intermediate learners looking to strengthen their understanding of classification algorithms and hyperparameter tuning in real-world healthcare applications.
 
 ---
-
-## ⭐ If you found this notebook helpful, consider giving it an upvote!
